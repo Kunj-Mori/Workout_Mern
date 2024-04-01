@@ -34,15 +34,7 @@ This repository contains the source code for a Workouts MERN (MongoDB, Express.j
 
 To get started with the Workouts MERN App, follow these steps:
 
-1. Clone the repository:
-
-```bash
-
-git clone https://github.com/WildanFrananda/workouts-MERN-app.git
-
-```
-
-2. Install dependencies for both the frontend and backend:
+1. Install dependencies for both the frontend and backend:
 
 ```bash
 
@@ -60,7 +52,7 @@ npm install
 
 ```
 
-3. Set up environment variables:
+2. Set up environment variables:
 
 Create a `.env` file in the `backend` directory and configure the following variables:
 
@@ -72,7 +64,7 @@ JWT_SECRET=<your_jwt_secret>
 
 ```
 
-4. Run the development server:
+3. Run the development server:
 
 ```bash
 
